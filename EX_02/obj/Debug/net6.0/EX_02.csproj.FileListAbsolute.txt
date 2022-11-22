@@ -1,0 +1,15 @@
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\bin\Debug\net6.0\EX_02.exe
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\bin\Debug\net6.0\EX_02.deps.json
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\bin\Debug\net6.0\EX_02.runtimeconfig.json
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\bin\Debug\net6.0\EX_02.dll
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\bin\Debug\net6.0\EX_02.pdb
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\EX_02.csproj.AssemblyReference.cache
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\EX_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\EX_02.AssemblyInfoInputs.cache
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\EX_02.AssemblyInfo.cs
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\EX_02.csproj.CoreCompileInputs.cache
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\EX_02.dll
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\refint\EX_02.dll
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\EX_02.pdb
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\EX_02.genruntimeconfig.cache
+C:\Users\carolina.sato\Documents\POO\DESAFIO\EX_02\obj\Debug\net6.0\ref\EX_02.dll
